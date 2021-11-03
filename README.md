@@ -4,7 +4,7 @@
 - 📦 [Vite](https://vitejs.dev/)
 - 🔩 [svelte-components](https://www.styled-components.com/)
 
-### Result: [view demo](test-senang-razif.netlify.app)
+### Result: [view demo](https://test-senang-razif.netlify.app)
 
 ## Installation
 adjust to the nodejs package manager commonly used
