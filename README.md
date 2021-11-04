@@ -43,5 +43,5 @@ npm run build
 yarn serve
 
 # npm
-npm run build
+npm run serve
 ```
